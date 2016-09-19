@@ -13,6 +13,7 @@
 		A76424DC1D8FC3EB004D11C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76424DA1D8FC3EB004D11C2 /* Main.storyboard */; };
 		A76424DE1D8FC3EB004D11C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A76424DD1D8FC3EB004D11C2 /* Assets.xcassets */; };
 		A76424E11D8FC3EB004D11C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A76424DF1D8FC3EB004D11C2 /* LaunchScreen.storyboard */; };
+		A76424EA1D8FCA30004D11C2 /* EOCSoundPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = A76424E91D8FCA30004D11C2 /* EOCSoundPlayer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		A76424DD1D8FC3EB004D11C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A76424E01D8FC3EB004D11C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A76424E21D8FC3EB004D11C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A76424E81D8FCA30004D11C2 /* EOCSoundPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCSoundPlayer.h; sourceTree = "<group>"; };
+		A76424E91D8FCA30004D11C2 /* EOCSoundPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCSoundPlayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				A76424D51D8FC3EB004D11C2 /* AppDelegate.m */,
 				A76424D71D8FC3EB004D11C2 /* ViewController.h */,
 				A76424D81D8FC3EB004D11C2 /* ViewController.m */,
+				A76424E81D8FCA30004D11C2 /* EOCSoundPlayer.h */,
+				A76424E91D8FCA30004D11C2 /* EOCSoundPlayer.m */,
 				A76424DA1D8FC3EB004D11C2 /* Main.storyboard */,
 				A76424DD1D8FC3EB004D11C2 /* Assets.xcassets */,
 				A76424DF1D8FC3EB004D11C2 /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A76424EA1D8FCA30004D11C2 /* EOCSoundPlayer.m in Sources */,
 				A76424D91D8FC3EB004D11C2 /* ViewController.m in Sources */,
 				A76424D61D8FC3EB004D11C2 /* AppDelegate.m in Sources */,
 				A76424D31D8FC3EB004D11C2 /* main.m in Sources */,

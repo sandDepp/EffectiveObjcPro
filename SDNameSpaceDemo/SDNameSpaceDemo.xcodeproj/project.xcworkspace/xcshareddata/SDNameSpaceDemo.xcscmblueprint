@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6D4819F5BF4508E2E5125E517A3CF8C881555B68",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6D4819F5BF4508E2E5125E517A3CF8C881555B68" : 9223372036854775807,
+    "3BA561D4EEEE65B7B1AFEFDB6B0C8A5BBEDD132D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6C9735FB-4CC1-4754-A2A3-87B2940D6E48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6D4819F5BF4508E2E5125E517A3CF8C881555B68" : "EffectiveObjc\/",
+    "3BA561D4EEEE65B7B1AFEFDB6B0C8A5BBEDD132D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SDNameSpaceDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SDNameSpaceDemo\/SDNameSpaceDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sandDepp\/sandProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BA561D4EEEE65B7B1AFEFDB6B0C8A5BBEDD132D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sandDepp\/EffectiveObjcPro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D4819F5BF4508E2E5125E517A3CF8C881555B68"
+    }
+  ]
+}
